@@ -9,8 +9,11 @@
 </p>
 <p align="center" >
 Visitor Count<br>
+
+![](https://komarev.com/ghpvc/?username=divya-yadv&color=green)
+
 </p>
-<p align="center">![](https://komarev.com/ghpvc/?username=divya-yadv&color=green)</p>
+
 
 
 <a href="https://www.linkedin.com/in/divya-yadav-529b5a213/">
