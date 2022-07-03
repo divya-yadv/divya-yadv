@@ -5,6 +5,7 @@
 - 👯 I’m looking forward to collaborate with developers and work on some great projects
 - 💬 Ask me about development, DSA 
 - 📫 How to reach me: divyayadavg8@gmail.com 
+- 🎇Want to know more?: https://divya-yadav.netlify.app/
 
 <!-- ⚡ Fun fact:  The first computer “bug” was an actual real-life bug 😁 -->
 
