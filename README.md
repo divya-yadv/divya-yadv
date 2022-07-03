@@ -59,9 +59,8 @@
 ## My Contributions
 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=divya-yadv&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
-  
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=divya-yadv&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br/>
 ![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=divya-yadv&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
 ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya-yadv&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-yadv&langs_count=8&theme=tokyonight)
