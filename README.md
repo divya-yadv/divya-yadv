@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I'm currently studying in NIT Surathkal, Karnataka 
-- 🌱 I’m currently learning MERN stack
+- 🌱 Currently I’m learning MERN stack
 - 👯 I’m looking forward to collaborate with developers and work on some great projects
 - 💬 Ask me about development, DSA 
 - 📫 How to reach me: divyayadavg8@gmail.com 
@@ -64,13 +64,13 @@
 
   <img src="https://activity-graph.herokuapp.com/graph?username=divya-yadv&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br/>
   
-
-![Divya's Github stats](https://github-readme-stats.vercel.app/api?username=divya-yadv&theme=radical) | ![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=divya-yadv&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
-
+![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=divya-yadv&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
+![Divya's Github stats](https://github-readme-stats.vercel.app/api?username=divya-yadv&theme=radical) | 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-yadv&langs_count=8&theme=tokyonight&layout=compact)
   
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-yadv&langs_count=8&theme=tokyonight)
+
 
 
 
