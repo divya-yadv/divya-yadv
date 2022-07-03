@@ -24,6 +24,11 @@
 
 <br/>
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" />
+
+
+
 **Languages and Tools:**
 
 <p>
@@ -46,11 +51,12 @@
 
 </p>
 
+<br/>
+
 ## My Contributions
 
 
   <img src="https://activity-graph.herokuapp.com/graph?username=divya-yadv&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" />
 
 
