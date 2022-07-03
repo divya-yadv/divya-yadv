@@ -2,9 +2,11 @@
 
 - 💻 I'm currently studying in NIT Surathkal, Karnataka 
 - 🌱 I’m currently learning MERN stack
+- 👯 I’m looking forward to collaborate with developers and work on some great projects
 - 💬 Ask me about development, DSA 
 - 📫 How to reach me: divyayadavg8@gmail.com 
-- ⚡ Fun fact:  The first computer “bug” was an actual real-life bug 😁
+
+<!-- ⚡ Fun fact:  The first computer “bug” was an actual real-life bug 😁 -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-yadv&color=green&label=Profile%20views&color=0e75b6&style=flat" alt="dilkhush" />
