@@ -14,6 +14,7 @@
 </p>
 <br/>
 
+## Connect🎎
 <a href="https://www.linkedin.com/in/divya-yadav-529b5a213/">
 <img align="left" alt="Divya yadav  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -62,6 +63,11 @@
 
 
   <img src="https://activity-graph.herokuapp.com/graph?username=divya-yadv&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br/>
+  
+  🎇Github Stats             |  🎇Top Languages
+:-------------------------:|:-------------------------:
+![Divya's Github stats](https://github-readme-stats.vercel.app/api?username=divya-yadv&theme=tokyonight) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-yadv&layout=compact&theme=tokyonight)
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-yadv&langs_count=8&theme=tokyonight)
 
