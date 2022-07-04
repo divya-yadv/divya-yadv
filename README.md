@@ -67,7 +67,7 @@
   
    📈                      |          📊
 :-------------------------:|:-------------------------:
-![Divya's Github stats](https://github-readme-stats.vercel.app/api?username=divya-yadv&theme=tokyonight) | ![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=divya-yadv&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
+![Divya's Github stats](https://github-readme-stats.vercel.app/api?username=divya-yadv&theme=tokyonight) | ![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=divya-yadv&theme=tokyonight&ring=DD2727&fire=DD2727)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-yadv&langs_count=8&theme=tokyonight)
 <br/>
