@@ -10,7 +10,7 @@
 <!-- ⚡ Fun fact:  The first computer “bug” was an actual real-life bug 😁 -->
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-yadv&color=green&label=Profile%20views&color=0e75b6&style=flat" alt="dilkhush" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-yadv&color=green&label=Profile%20views&color=0e75b6&style=flat" alt="dilkhush" />
 <a href="https://github.com/divya-yadv?tab=followers"><img src="https://img.shields.io/github/followers/divya-yadv?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <br/>
@@ -32,7 +32,6 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/divya-yadv.gif?z=6)](https://github4life.herokuapp.com/divya-yadv)
 
-<br/>
 <br/>
 <br/>
 
