@@ -29,7 +29,9 @@
 <br/>
 
 ## My GitHub contributions as a Game of Life:
+
 [![GitHub Game of Life](https://github4life.herokuapp.com/divya-yadv.gif?z=6)](https://github4life.herokuapp.com/divya-yadv)
+
 <br/>
 <br/>
 <br/>
@@ -41,7 +43,7 @@
 <br/>
 
 
-## Languages and Tools:
+**Languages and Tools**:
 
 <p>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
