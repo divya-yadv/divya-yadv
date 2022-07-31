@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm currently studying in NIT Surathkal, Karnataka 
+- 💻 I'm studying in NIT Surathkal, Karnataka 
 - 🌱 Currently I’m learning MERN stack
 - 👯 I’m looking forward to collaborate with developers and work on some great projects
 - 💬 Ask me about development, DSA 
