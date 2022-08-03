@@ -28,13 +28,13 @@
 <br/>
 <br/>
 
-## My GitHub contributions as a Game of Life:
+<!-- ## My GitHub contributions as a Game of Life:
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/divya-yadv.gif?z=6)](https://github4life.herokuapp.com/divya-yadv)
 
 <br/>
 <br/>
-
+-->
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" />
 
