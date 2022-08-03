@@ -17,13 +17,13 @@
 
 ## Connect🎎:
 <a href="https://www.linkedin.com/in/divya-yadav-529b5a213/">
-<img align="left" alt="Divya yadav LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Divya yadav LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Diyadav">
-<img align="left" alt="Divya Yadav Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="left" alt="Divya Yadav Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/_demi_meower_/">
-<img align="left" alt="Divya Yadav Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Divya Yadav Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
 <br/>
