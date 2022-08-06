@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey there, I'm Divya Yadav 👋
 
 - 💻 I'm studying in NIT Surathkal, Karnataka 
-- 🌱 Currently I’m learning MERN stack
+- 🌱 Currently I’m learning MERN stack.
 - 👯 I’m looking forward to collaborate with developers and work on some great projects
 - 💬 Ask me about development, DSA 
 - 📫 How to reach me: divyayadavg8@gmail.com 
@@ -10,7 +10,8 @@
 <!-- ⚡ Fun fact:  The first computer “bug” was an actual real-life bug 😁 -->
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-yadv&color=green&label=Profile%20views&color=0e75b6&style=flat" alt="dilkhush" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-yadv&color=green&label=Profile%20views&color=0e75b6&style=flat" alt="divya" />
+
 <a href="https://github.com/divya-yadv?tab=followers"><img src="https://img.shields.io/github/followers/divya-yadv?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <br/>
