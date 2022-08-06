@@ -1,4 +1,4 @@
-### Hey there, I'm Divya Yadav 👋
+### Hey there, I'm Divya 👋
 
 - 💻 I'm studying in NIT Surathkal, Karnataka 
 - 🌱 Currently I’m learning MERN stack.
