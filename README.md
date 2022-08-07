@@ -11,7 +11,6 @@
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-yadv&color=green&label=Profile%20views&color=0e75b6&style=flat" alt="divya" />
-
 <a href="https://github.com/divya-yadv?tab=followers"><img src="https://img.shields.io/github/followers/divya-yadv?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <br/>
