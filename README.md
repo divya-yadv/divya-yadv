@@ -86,7 +86,13 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divya-yadv&langs_count=8&theme=tokyonight)
 <br/>
 
-
-
+<!--  <p align="center">
+   <a>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   </a>
+</p>
+-->
 
 
